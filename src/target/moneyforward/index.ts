@@ -146,6 +146,7 @@ export class MoneyforwardCashAccount {
         '--no-first-run',
         '--no-zygote',
         '--disable-gpu',
+        '--disable-features=DefaultPassthroughCommandDecoder',
       ],
       ...this.config.puppeteerOptions,
     };
