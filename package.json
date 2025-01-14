@@ -20,7 +20,7 @@
     "currency-converter-lt": "^2.0.1",
     "node-binance-api": "^0.13.1",
     "pkce-challenge": "^3.0",
-    "puppeteer": "^23.10.2",
+    "puppeteer": "^24.0.0",
     "undici": "^7.2.1",
     "uuid": "^11.0.5"
   }
