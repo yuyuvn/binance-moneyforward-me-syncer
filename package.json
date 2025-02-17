@@ -19,7 +19,7 @@
     "axios": "^1.7.9",
     "cheerio": "^1.0.0",
     "ethers": "^5.7.2",
-    "node-binance-api": "^0.13.1",
+    "node-binance-api": "^0.13.4",
     "pkce-challenge": "^4.1",
     "puppeteer": "^24.2.0",
     "undici": "^7.3.0",
